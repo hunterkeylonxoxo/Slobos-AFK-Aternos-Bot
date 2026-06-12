@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GhostSMP.aternos.me",
+    "ip": "GhostSMP-rc64.aternos.me",
     "port": 40355,
     "version": "",
     "try-creative": false
